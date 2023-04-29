@@ -11293,7 +11293,7 @@ p {
 }
 
 .pricing-wrapper .pricing-card-footer span {
-  font-size: calc(18px + (35 - 18) * ((100vw - 300px) / (1300 - 300)));
+  font-size: calc(18px + (35 - 20) * ((100vw - 300px) / (1300 - 300)));
   font-weight: 600;
   opacity: .8;
 }
